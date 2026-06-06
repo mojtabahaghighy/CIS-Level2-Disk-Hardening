@@ -55,7 +55,7 @@ This repository contains the exact scripts I used to solve a real production cha
 ### Step‑by‑Step
 
 1. **Clone the repository**
-   git clone https://github.com/mojtaba-haghighy/CIS-Level2-Disk-Hardening.git
+   git clone https://github.com/mojtabahaghighy/CIS-Level2-Disk-Hardening.git
    cd CIS-Level2-Disk-Hardening
    chmod +x *.sh
 
